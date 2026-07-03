@@ -1,0 +1,17 @@
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\baguette_assets
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\MeleeWeaponMod.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\MeleeWeaponMod.pdb
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\BepInEx.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\UnityEngine.AssetBundleModule.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\UnityEngine.CoreModule.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\UnityEngine.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\UnityEngine.InputLegacyModule.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\bin\Debug\net48\UnityEngine.PhysicsModule.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.csproj.AssemblyReference.cache
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.AssemblyInfoInputs.cache
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.AssemblyInfo.cs
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.csproj.CoreCompileInputs.cache
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWea.512AE019.Up2Date
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.dll
+C:\Users\axioulle\Desktop\baguette mod pinpin25\baguette_mod\obj\Debug\net48\MeleeWeaponMod.pdb

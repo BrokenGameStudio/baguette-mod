@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5PimDU84aE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\axioulle\\Desktop\\baguette mod pinpin25\\baguette_mod\\MeleeWeaponMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axioulle\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\axioulle\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
