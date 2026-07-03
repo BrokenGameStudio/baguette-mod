@@ -11,19 +11,6 @@ Objet ramassable et physique (Rigidbody + PhysGrabObject) intégré au système 
 Système d'attaque au clic gauche avec cooldown, détection par raycast/overlap sphere
 Base d'un système réseau client → host pour la synchronisation des coups (NetMessages)
 
-
-# Structure du projet
-
-MeleeWeaponMod/
-├── MeleeWeaponMod.cs      # Plugin principal (BepInPlugin), chargement de l'AssetBundle
-├── MeleeWeapon.cs         # Composant d'attaque générique (input + envoi réseau)
-├── BaguetteSpawner.cs     # Arme Baguette (dégâts, swing) + patch Harmony de spawn
-├── WeaponSpawner.cs       # Utilitaire de spawn de l'arme dans une main/parent donné
-├── NetMessages.cs         # Gestion des messages d'attaque client → host
-├── baguette_assets        # AssetBundle Unity contenant le prefab de la baguette
-├── Libs/                  # Références BepInEx / UnityEngine (non redistribuées)
-└── MeleeWeaponMod.csproj  # Projet .NET Framework 4.8
-
 # Prérequis
 
 
